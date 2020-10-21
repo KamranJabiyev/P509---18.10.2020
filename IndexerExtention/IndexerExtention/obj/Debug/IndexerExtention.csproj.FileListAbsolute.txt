@@ -1,0 +1,6 @@
+E:\P509\C#\IndexerExtention\IndexerExtention\bin\Debug\IndexerExtention.exe.config
+E:\P509\C#\IndexerExtention\IndexerExtention\bin\Debug\IndexerExtention.exe
+E:\P509\C#\IndexerExtention\IndexerExtention\bin\Debug\IndexerExtention.pdb
+E:\P509\C#\IndexerExtention\IndexerExtention\obj\Debug\IndexerExtention.csprojAssemblyReference.cache
+E:\P509\C#\IndexerExtention\IndexerExtention\obj\Debug\IndexerExtention.exe
+E:\P509\C#\IndexerExtention\IndexerExtention\obj\Debug\IndexerExtention.pdb
